@@ -22,7 +22,7 @@ Constraints:
 
 */
 
-
+// Difficulty Level -- Easy
 
 class Solution {
     public String defangIPaddr(String address) {
